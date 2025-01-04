@@ -23,7 +23,7 @@ Contributions to this project are highly encouraged. If you wish to enhance or e
 ### License
 This project is distributed under the MIT License - see the LICENSE file for more details.
 
-### Authors
+### Author
 Balaji Mediboina
 
 ### Acknowledgements
