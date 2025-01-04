@@ -1,1 +1,1 @@
-# bmediboi-Forecasting-and-Analysis-of-ERCOT-Electric-Load-Curves
+Time Series Forecasting-and-Analysis-of-ERCOT-Electric-Load-Curves
