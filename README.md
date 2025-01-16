@@ -23,8 +23,5 @@ Contributions to this project are highly encouraged. If you wish to enhance or e
 ### License
 This project is distributed under the MIT License - see the LICENSE file for more details.
 
-### Author
-Balaji Mediboina
-
 ### Acknowledgements
 Thank you to **Jaya Surya Thota**. Special appreciation to ERCOT for making the dataset available, which played a pivotal role in the success of this analysis.
